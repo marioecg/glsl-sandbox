@@ -30,7 +30,7 @@
   ],
   "devDependencies": {
     "vite": "^4.4.9",
-    "resolve-lygia": "^1.0.4"
+    "vite-plugin-glsl": "^1.1.2"
   },
   "dependencies": {
     "three": "^0.155.0"
