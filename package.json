@@ -5,6 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Patricio Gonzalez Vivo <patriciogonzalezvivo@gmail.com>",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

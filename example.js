@@ -23,7 +23,7 @@ const uniforms = {
 
 // GLSL Buffers
 const glsl_sandbox = new GlslSandbox(renderer, uniforms);
-glsl_sandbox.load(shader_frag);
+glsl_sandbox.load(fragmentShader);
 
 // SPHERE
 const material = new ShaderMaterial({
